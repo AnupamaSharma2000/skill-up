@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-04-02",
+  "last_updated": "2026-04-04",
   "problems": {
-    "total": 0,
-    "easy": 0,
+    "total": 1,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "streak": 0,
     "this_week": 0,
-    "recent": []
+    "recent": [
+      {
+        "date": "Thu Apr 02 2026 00:00:00 GMT-0400 (Eastern Daylight Time)",
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "platform": "LeetCode",
+        "tags": [
+          "array",
+          "hashmap"
+        ],
+        "solution": "https://github.com/AnupamaSharma2000/skill-up/...",
+        "problem": "https://leetcode.com/..."
+      }
+    ]
   },
   "certs": []
 }
