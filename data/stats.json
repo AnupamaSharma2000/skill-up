@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-04-13",
   "problems": {
-    "total": 1,
-    "easy": 1,
+    "total": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "streak": 0,
@@ -19,6 +19,17 @@
         ],
         "solution": "https://github.com/AnupamaSharma2000/skill-up/...",
         "problem": "https://leetcode.com/..."
+      },
+      {
+        "date": "Thu Apr 09 2026 00:00:00 GMT-0400 (Eastern Daylight Time)",
+        "title": "Contains duplicate",
+        "difficulty": "Easy",
+        "platform": "personal collection",
+        "tags": [
+          "hashset"
+        ],
+        "solution": null,
+        "problem": null
       }
     ]
   },
